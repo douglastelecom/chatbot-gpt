@@ -1,0 +1,6 @@
+/home/sds/Documentos/backChatgpt/src/main/java/br/edu/ufrn/backchatgpt/controller/ChatController.java
+/home/sds/Documentos/backChatgpt/src/main/java/br/edu/ufrn/backchatgpt/model/ChatRequest.java
+/home/sds/Documentos/backChatgpt/src/main/java/br/edu/ufrn/backchatgpt/model/Message.java
+/home/sds/Documentos/backChatgpt/src/main/java/br/edu/ufrn/backchatgpt/BackChatgptApplication.java
+/home/sds/Documentos/backChatgpt/src/main/java/br/edu/ufrn/backchatgpt/configuration/OpenAIRestTemplateConfig.java
+/home/sds/Documentos/backChatgpt/src/main/java/br/edu/ufrn/backchatgpt/model/ChatResponse.java

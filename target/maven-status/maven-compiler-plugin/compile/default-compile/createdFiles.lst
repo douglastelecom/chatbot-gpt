@@ -1,0 +1,7 @@
+br/edu/ufrn/backchatgpt/model/ChatRequest.class
+br/edu/ufrn/backchatgpt/BackChatgptApplication.class
+br/edu/ufrn/backchatgpt/controller/ChatController.class
+br/edu/ufrn/backchatgpt/model/ChatResponse$Choice.class
+br/edu/ufrn/backchatgpt/configuration/OpenAIRestTemplateConfig.class
+br/edu/ufrn/backchatgpt/model/ChatResponse.class
+br/edu/ufrn/backchatgpt/model/Message.class
